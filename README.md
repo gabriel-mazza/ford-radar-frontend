@@ -139,27 +139,6 @@ O resultado retorna em formato padronizado e é exibido no app de forma organiza
 
 ---
 
-# Predição de retenção de clientes
-
-O aplicativo também permite consultar e cadastrar informações relacionadas à retenção de clientes.
-
-Funcionalidades:
-
-* cadastro de predição
-* consulta por VIN
-* listagem paginada
-* visualização detalhada
-
-Endpoints utilizados:
-
-```http
-POST /api/v1/predictions
-GET /api/v1/predictions/{vin}
-GET /api/v1/predictions
-```
-
----
-
 # Camada de serviços
 
 Toda comunicação HTTP foi centralizada no arquivo:
