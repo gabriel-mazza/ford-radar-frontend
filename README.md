@@ -1,5 +1,9 @@
 # Ford Radar Mobile
 
+Gabriel Barros Mazzariol RM 555410
+Jefferson Junior Alvarez Urbina RM 558497
+ 
+
 Aplicativo mobile corporativo desenvolvido em React Native com Expo para uso interno da Ford, focado em inteligência competitiva automotiva e visualização de dados preditivos de retenção de clientes.
 
 O aplicativo consome os serviços REST da API Ford Radar, permitindo autenticação segura com JWT, comparação inteligente de veículos concorrentes e consulta de dados estratégicos utilizados pela equipe comercial e pós-venda.
